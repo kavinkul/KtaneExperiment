@@ -1,0 +1,465 @@
+fileFormatVersion: 2
+guid: 02637cf57626c5e4ab09b97a01fdce64
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cut_Wire
+    100002: Cut_Wire_001
+    100004: Cut_Wire_002
+    100006: Cut_Wire_003
+    100008: Cut_Wire_004
+    100010: Cut_Wire_005
+    100012: Cut_Wire_006
+    100014: Door
+    100016: Punctured_Component_PuzzleBackground
+    100018: //RootNode
+    100020: Wire_1
+    100022: Wire_2
+    100024: Wire_3
+    100026: Wire_4
+    100028: Wire_5
+    100030: Wire_6
+    100032: Wire_7
+    100034: Wire_HL
+    100036: Wire_HL_001
+    100038: Wire_HL_002
+    100040: Wire_HL_003
+    100042: Wire_HL_004
+    100044: Wire_HL_005
+    100046: Wire_HL_006
+    100048: Wires_Backface
+    100050: Cut_Wire_1
+    100052: Cut_Wire_2
+    100054: Cut_Wire_3
+    100056: Cut_Wire_4
+    100058: Cut_Wire_5
+    100060: Cut_Wire_6
+    100062: Cut_Wire_7
+    100064: Uncut_Wire_1
+    100066: Uncut_Wire_2
+    100068: Uncut_Wire_3
+    100070: Uncut_Wire_4
+    100072: Uncut_Wire_5
+    100074: Uncut_Wire_6
+    100076: Uncut_Wire_7
+    100078: Uncut_Wite_HL_1
+    100080: Uncut_Wite_HL_2
+    100082: Uncut_Wite_HL_3
+    100084: Uncut_Wite_HL_4
+    100086: Uncut_Wite_HL_5
+    100088: Uncut_Wite_HL_6
+    100090: Uncut_Wite_HL_7
+    400000: Cut_Wire
+    400002: Cut_Wire_001
+    400004: Cut_Wire_002
+    400006: Cut_Wire_003
+    400008: Cut_Wire_004
+    400010: Cut_Wire_005
+    400012: Cut_Wire_006
+    400014: Door
+    400016: Punctured_Component_PuzzleBackground
+    400018: //RootNode
+    400020: Wire_1
+    400022: Wire_2
+    400024: Wire_3
+    400026: Wire_4
+    400028: Wire_5
+    400030: Wire_6
+    400032: Wire_7
+    400034: Wire_HL
+    400036: Wire_HL_001
+    400038: Wire_HL_002
+    400040: Wire_HL_003
+    400042: Wire_HL_004
+    400044: Wire_HL_005
+    400046: Wire_HL_006
+    400048: Wires_Backface
+    400050: Cut_Wire_1
+    400052: Cut_Wire_2
+    400054: Cut_Wire_3
+    400056: Cut_Wire_4
+    400058: Cut_Wire_5
+    400060: Cut_Wire_6
+    400062: Cut_Wire_7
+    400064: Uncut_Wire_1
+    400066: Uncut_Wire_2
+    400068: Uncut_Wire_3
+    400070: Uncut_Wire_4
+    400072: Uncut_Wire_5
+    400074: Uncut_Wire_6
+    400076: Uncut_Wire_7
+    400078: Uncut_Wite_HL_1
+    400080: Uncut_Wite_HL_2
+    400082: Uncut_Wite_HL_3
+    400084: Uncut_Wite_HL_4
+    400086: Uncut_Wite_HL_5
+    400088: Uncut_Wite_HL_6
+    400090: Uncut_Wite_HL_7
+    2100000: None
+    2100002: None_002
+    2100004: None_001
+    2100006: unnamed
+    2100008: Component_PuzzleBack_mat_002
+    2100010: None_006
+    2100012: None_005
+    2100014: None_004
+    2300000: Cut_Wire
+    2300002: Cut_Wire_001
+    2300004: Cut_Wire_002
+    2300006: Cut_Wire_003
+    2300008: Cut_Wire_004
+    2300010: Cut_Wire_005
+    2300012: Cut_Wire_006
+    2300014: Punctured_Component_PuzzleBackground
+    2300016: Wire_1
+    2300018: Wire_2
+    2300020: Wire_3
+    2300022: Wire_4
+    2300024: Wire_5
+    2300026: Wire_6
+    2300028: Wire_7
+    2300030: Wire_HL
+    2300032: Wire_HL_001
+    2300034: Wire_HL_002
+    2300036: Wire_HL_003
+    2300038: Wire_HL_004
+    2300040: Wire_HL_005
+    2300042: Wire_HL_006
+    2300044: Wires_Backface
+    2300046: Cut_Wire_1
+    2300048: Cut_Wire_2
+    2300050: Cut_Wire_3
+    2300052: Cut_Wire_4
+    2300054: Cut_Wire_5
+    2300056: Cut_Wire_6
+    2300058: Cut_Wire_7
+    2300060: Uncut_Wire_1
+    2300062: Uncut_Wire_2
+    2300064: Uncut_Wire_3
+    2300066: Uncut_Wire_4
+    2300068: Uncut_Wire_5
+    2300070: Uncut_Wire_6
+    2300072: Uncut_Wire_7
+    2300074: Uncut_Wite_HL_1
+    2300076: Uncut_Wite_HL_2
+    2300078: Uncut_Wite_HL_3
+    2300080: Uncut_Wite_HL_4
+    2300082: Uncut_Wite_HL_5
+    2300084: Uncut_Wite_HL_6
+    2300086: Uncut_Wite_HL_7
+    3300000: Cut_Wire
+    3300002: Cut_Wire_001
+    3300004: Cut_Wire_002
+    3300006: Cut_Wire_003
+    3300008: Cut_Wire_004
+    3300010: Cut_Wire_005
+    3300012: Cut_Wire_006
+    3300014: Punctured_Component_PuzzleBackground
+    3300016: Wire_1
+    3300018: Wire_2
+    3300020: Wire_3
+    3300022: Wire_4
+    3300024: Wire_5
+    3300026: Wire_6
+    3300028: Wire_7
+    3300030: Wire_HL
+    3300032: Wire_HL_001
+    3300034: Wire_HL_002
+    3300036: Wire_HL_003
+    3300038: Wire_HL_004
+    3300040: Wire_HL_005
+    3300042: Wire_HL_006
+    3300044: Wires_Backface
+    3300046: Cut_Wire_1
+    3300048: Cut_Wire_2
+    3300050: Cut_Wire_3
+    3300052: Cut_Wire_4
+    3300054: Cut_Wire_5
+    3300056: Cut_Wire_6
+    3300058: Cut_Wire_7
+    3300060: Uncut_Wire_1
+    3300062: Uncut_Wire_2
+    3300064: Uncut_Wire_3
+    3300066: Uncut_Wire_4
+    3300068: Uncut_Wire_5
+    3300070: Uncut_Wire_6
+    3300072: Uncut_Wire_7
+    3300074: Uncut_Wite_HL_1
+    3300076: Uncut_Wite_HL_2
+    3300078: Uncut_Wite_HL_3
+    3300080: Uncut_Wite_HL_4
+    3300082: Uncut_Wite_HL_5
+    3300084: Uncut_Wite_HL_6
+    3300086: Uncut_Wite_HL_7
+    4300000: Wire_6
+    4300002: Cut_Wire_006
+    4300004: Wire_HL_006
+    4300006: Wire_7
+    4300008: Wire_HL_005
+    4300010: Cut_Wire_005
+    4300012: Wire_5
+    4300014: Cut_Wire_004
+    4300016: Wire_HL_004
+    4300018: Wire_1
+    4300020: Wire_HL_002
+    4300022: Cut_Wire
+    4300024: Wire_2
+    4300026: Cut_Wire_002
+    4300028: Wire_HL
+    4300030: Wire_3
+    4300032: Wire_HL_001
+    4300034: Cut_Wire_001
+    4300036: Wire_4
+    4300038: Cut_Wire_003
+    4300040: Wire_HL_003
+    4300042: Door
+    4300044: Wires_Backface
+    4300046: Punctured_Component_PuzzleBackground
+    4300048: Uncut_Wire_6
+    4300050: Uncut_Wite_HL_6
+    4300052: Cut_Wire_6
+    4300054: Cut_Wire_7
+    4300056: Uncut_Wite_HL_7
+    4300058: Uncut_Wire_7
+    4300060: Uncut_Wire_5
+    4300062: Uncut_Wite_HL_5
+    4300064: Cut_Wire_5
+    4300066: Cut_Wire_3
+    4300068: Uncut_Wite_HL_3
+    4300070: Uncut_Wire_3
+    4300072: Uncut_Wire_2
+    4300074: Uncut_Wite_HL_2
+    4300076: Cut_Wire_2
+    4300078: Cut_Wire_1
+    4300080: Uncut_Wite_HL_1
+    4300082: Uncut_Wire_1
+    4300084: Uncut_Wire_4
+    4300086: Uncut_Wite_HL_4
+    4300088: Cut_Wire_4
+    7400000: Default Take
+    7400002: Door Closed
+    7400004: Door Opening
+    7400006: Door Opened
+    7400008: Door Closing
+    9500000: //RootNode
+    13700000: Door
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 1
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: -1
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Door Opening
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Door Closed
+      takeName: Default Take
+      firstFrame: 69
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Door Opened
+      takeName: Default Take
+      firstFrame: 34
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Door Closing
+      takeName: Default Take
+      firstFrame: 35
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
