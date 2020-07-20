@@ -850,8 +850,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c26103c0f3cedd14ebf5d9cf3a9a4ba1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ModuleObject: {fileID: 91529335}
+  ActivatorCube: {fileID: 1513778866}
   CylinderObject: {fileID: 1716866675}
+  HypercubeTransform: {fileID: 91529336}
 --- !u!114 &1565525181
 MonoBehaviour:
   m_ObjectHideFlags: 0
