@@ -13,21 +13,20 @@ public class KtaneExperiment6 : MonoBehaviour {
 	private int _currentRotation = 0;
 	private float _angle = 90f;
 
-	private Vector3[] _allAxes;
+	private Vector3[] _allAxes = new Vector3[]
+	{
+		new Vector3(1, 0, 0),
+		new Vector3(1, 0, 1),
+		new Vector3(0, 0, 1),
+		new Vector3(-1, 0, 1),
+		new Vector3(-1, 0, 0),
+		new Vector3(-1, 0, -1),
+		new Vector3(0, 0, -1),
+		new Vector3(1, 0, -1),
+	};
 
 	// Use this for initialization
 	void Start () {
-		_allAxes = new Vector3[]
-		{
-			new Vector3(1, 0, 0),
-			new Vector3(1, 0, 1),
-			new Vector3(0, 0, 1),
-			new Vector3(-1, 0, 1),
-			new Vector3(-1, 0, 0),
-			new Vector3(-1, 0, -1),
-			new Vector3(0, 0, -1),
-			new Vector3(1, 0, -1),
-		};
 		GreenCube.OnInteract += delegate { _currentRotation = (_currentRotation + 1) % 8; return false; };
 	}
 
